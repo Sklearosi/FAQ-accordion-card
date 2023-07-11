@@ -173,7 +173,9 @@ li {
         
     }
 
-
+    .faq-div:hover .question p {
+        color: #F47B56;
+    }
     
 
 }
